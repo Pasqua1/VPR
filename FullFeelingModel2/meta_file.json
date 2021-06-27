@@ -1,0 +1,16 @@
+{
+  "guid": "bdbb0598-9bdf-485e-a78f-41a57c5b7f04",
+  "docker name": "wheat-raps analyzer",
+  "accept": [ "wheat" ],
+  "reject": [ "raps" ],
+  "name of input volume": "my_volume_input",
+  "author": "Voronkov Alexander",
+  "version": "0.8",
+  "list of products": [ "wheat", "raps" ],
+  "date": "2009-06-04 18:13:56",
+  "model_parameters": {
+    "model_type": "GMM",
+    "wheat": [ 0, 2, 4 ],
+    "raps": [ 1, 3 ]
+  }
+}

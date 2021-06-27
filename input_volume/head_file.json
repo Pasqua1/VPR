@@ -1,0 +1,15 @@
+{
+  "input": 
+  {
+    "idSession": 0,
+    "images": [ "img001.png", "img002.png" ],
+    "session_config": {
+      "accept": [ "raps" ],
+      "reject": [ "wheat" ],
+      "param": [
+        { "key1": "value1" },
+        { "key2": "value2" },
+        { "key3": "value3" }
+      ]
+    }
+  }}

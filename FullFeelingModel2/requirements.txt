@@ -1,0 +1,8 @@
+numpy
+sklearn
+pandas
+Pillow
+imageio
+colour
+colour_checker_detection
+matplotlib
